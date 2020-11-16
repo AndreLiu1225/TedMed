@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383017534937",
+    "firebase_url": "https://tedmed-35545.firebaseio.com",
+    "project_id": "tedmed-35545",
+    "storage_bucket": "tedmed-35545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383017534937:android:2c2f12c2459bc4a509c5c8",
+        "android_client_info": {
+          "package_name": "com.example.tedmed2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383017534937-cs9d2c8gpmnuf65di56546houbfpindb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tedmed2",
+            "certificate_hash": "6e4300d030a0b3c176fc9a673bcc79c6634434bc"
+          }
+        },
+        {
+          "client_id": "383017534937-o4fdo0qmhenoqjceuvjeudsqtonmddn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOeGyDEHUxYS59wXKcy-hnROMX6zULjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383017534937-o4fdo0qmhenoqjceuvjeudsqtonmddn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
